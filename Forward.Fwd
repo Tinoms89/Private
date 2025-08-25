@@ -1,0 +1,115 @@
+{
+  "title": "Tinoms89's Widgets",
+  "description": "Forward Private Widgets",
+  "icon": "https://gitee.com/Tinoms89/Private/raw/main/Icon/Forward.png",
+  "widgets": [
+    {
+      "id": "tmdb",
+      "title": "TMDB",
+      "description": "人物作品、出品公司、播出平台",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.24",
+      "author": "Tinoms89",
+      "url": "https://gitee.com/Tinoms89/Private/raw/main/Widget/TMDB.Js"
+    },
+    {
+      "id": "combinlist",
+      "title": "CombinList",
+      "description": "豆瓣片单、TMDB、IMDB、Bangumi",
+      "requiredVersion": "0.0.1",
+      "version": "1.3.3",
+      "author": "Tinoms89",
+      "url": "https://gitee.com/Tinoms89/Private/raw/main/Widget/CombinList.Js"
+    },
+    {
+      "id": "danmuauto",
+      "title": "Danmu-Auto",
+      "description": "匹配接口自动获取弹幕",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.14",
+      "author": "Tinoms89",
+      "url": "https://gitee.com/Tinoms89/Private/raw/main/Widget/Danmu-Auto.Js"
+    },
+    {
+      "id": "danmuurl",
+      "title": "Danmu-Url",
+      "description": "搜索链接手动获取弹幕",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.6",
+      "author": "Tinoms89",
+      "url": "https://gitee.com/Tinoms89/Private/raw/main/Widget/Danmu-Url.Js"
+    },
+    {
+      "id": "blive",
+      "title": "BLive",
+      "description": "秋名山解析在线直播",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Tinoms89",
+      "url": "https://gitee.com/Tinoms89/Private/raw/main/Widget/BLive.Js"
+    },
+    {
+      "id": "jable",
+      "title": "Jable",
+      "description": "连接Jable视频网站",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.9",
+      "author": "Tinoms89",
+      "url": "https://gitee.com/Tinoms89/Private/raw/main/Widget/Jable.Js"
+    },
+    {
+      "id": "javday",
+      "title": "JAVDay",
+      "description": "连接JAVDay视频网站",
+      "requiredVersion": "0.0.1",
+      "version": "1.1.0",
+      "author": "Tinoms89",
+      "url": "https://gitee.com/Tinoms89/Private/raw/main/Widget/JAVDay.Js"
+    },
+    {
+      "id": "javrate",
+      "title": "JAVRate",
+      "description": "连接JAVRate视频网站",
+      "requiredVersion": "0.0.1",
+      "version": "2.1.0",
+      "author": "Tinoms89",
+      "url": "https://gitee.com/Tinoms89/Private/raw/main/Widget/JAVRate.Js"
+    },
+    {
+      "id": "missav",
+      "title": "MissAV",
+      "description": "连接MissAV视频网站",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Tinoms89",
+      "url": "https://gitee.com/Tinoms89/Private/raw/main/Widget/MissAV.Js"
+    },
+    {
+      "id": "91pron",
+      "title": "91Pron",
+      "description": "连接91Pron视频网站",
+      "requiredVersion": "0.0.1",
+      "version": "0.9.4",
+      "author": "Tinoms89",
+      "url": "https://gitee.com/Tinoms89/Private/raw/main/Widget/91Pron.Js"
+    },
+    {
+      "id": "pronhub",
+      "title": "PronHub",
+      "description": "连接PronHub视频网站",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.5",
+      "author": "Tinoms89",
+      "url": "https://gitee.com/Tinoms89/Private/raw/main/Widget/PronHub.Js"
+    },
+    {
+      "id": "xvideo",
+      "title": "XVideo",
+      "description": "连接XVideo视频网站",
+      "requiredVersion": "0.0.1",
+      "version": "0.9.4",
+      "author": "Tinoms89",
+      "url": "https://gitee.com/Tinoms89/Private/raw/main/Widget/XVideo.Js"
+    }
+  ]
+}
