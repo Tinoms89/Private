@@ -1,5 +1,5 @@
 {
-  "title": "TardMais89's Widgets",
+  "title": "TardMais89 Widgets",
   "description": "Forward Adult Widgets",
   "icon": "https://gitee.com/Tinoms89/Private/raw/main/Icon/Adult.png",
   "widgets": [
@@ -49,15 +49,6 @@
       "url": "https://raw.githubusercontent.com/Tinoms89/Private/main/MissAV.Js"
     },
     {
-      "id": "91pron",
-      "title": "91Pron",
-      "description": "连接91Pron视频网站",
-      "requiredVersion": "0.0.1",
-      "version": "0.9.4",
-      "author": "Tinoms89",
-      "url": "https://raw.githubusercontent.com/Tinoms89/Private/main/91Pron.Js"
-    },
-    {
       "id": "pronhub",
       "title": "PronHub",
       "description": "连接PronHub视频网站",
@@ -65,6 +56,15 @@
       "version": "1.0.5",
       "author": "Tinoms89",
       "url": "https://raw.githubusercontent.com/Tinoms89/Private/main/PronHub.Js"
+    },
+    {
+      "id": "91pron",
+      "title": "91Pron",
+      "description": "连接91Pron视频网站",
+      "requiredVersion": "0.0.1",
+      "version": "0.9.4",
+      "author": "Tinoms89",
+      "url": "https://raw.githubusercontent.com/Tinoms89/Private/main/91Pron.Js"
     },
     {
       "id": "xvideo",
