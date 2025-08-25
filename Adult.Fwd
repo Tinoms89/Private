@@ -1,0 +1,79 @@
+{
+  "title": "TardMais89's Widgets",
+  "description": "Forward Adult Widgets",
+  "icon": "https://gitee.com/Tinoms89/Private/raw/main/Icon/Adult.png",
+  "widgets": [
+    {
+      "id": "blive",
+      "title": "BLive",
+      "description": "秋名山解析在线直播",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Tinoms89",
+      "url": "https://gitee.com/Tinoms89/Private/raw/main/Widget/BLive.Js"
+    },
+    {
+      "id": "jable",
+      "title": "Jable",
+      "description": "连接Jable视频网站",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.9",
+      "author": "Tinoms89",
+      "url": "https://gitee.com/Tinoms89/Private/raw/main/Widget/Jable.Js"
+    },
+    {
+      "id": "javday",
+      "title": "JAVDay",
+      "description": "连接JAVDay视频网站",
+      "requiredVersion": "0.0.1",
+      "version": "1.1.0",
+      "author": "Tinoms89",
+      "url": "https://gitee.com/Tinoms89/Private/raw/main/Widget/JAVDay.Js"
+    },
+    {
+      "id": "javrate",
+      "title": "JAVRate",
+      "description": "连接JAVRate视频网站",
+      "requiredVersion": "0.0.1",
+      "version": "2.1.0",
+      "author": "Tinoms89",
+      "url": "https://gitee.com/Tinoms89/Private/raw/main/Widget/JAVRate.Js"
+    },
+    {
+      "id": "missav",
+      "title": "MissAV",
+      "description": "连接MissAV视频网站",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Tinoms89",
+      "url": "https://gitee.com/Tinoms89/Private/raw/main/Widget/MissAV.Js"
+    },
+    {
+      "id": "91pron",
+      "title": "91Pron",
+      "description": "连接91Pron视频网站",
+      "requiredVersion": "0.0.1",
+      "version": "0.9.4",
+      "author": "Tinoms89",
+      "url": "https://gitee.com/Tinoms89/Private/raw/main/Widget/91Pron.Js"
+    },
+    {
+      "id": "pronhub",
+      "title": "PronHub",
+      "description": "连接PronHub视频网站",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.5",
+      "author": "Tinoms89",
+      "url": "https://gitee.com/Tinoms89/Private/raw/main/Widget/PronHub.Js"
+    },
+    {
+      "id": "xvideo",
+      "title": "XVideo",
+      "description": "连接XVideo视频网站",
+      "requiredVersion": "0.0.1",
+      "version": "0.9.4",
+      "author": "Tinoms89",
+      "url": "https://gitee.com/Tinoms89/Private/raw/main/Widget/XVideo.Js"
+    }
+  ]
+}
