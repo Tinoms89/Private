@@ -10,7 +10,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Tinoms89",
-      "url": "https://gitee.com/Tinoms89/Private/raw/main/Widget/BLive.Js"
+      "url": "https://raw.githubusercontent.com/Tinoms89/Private/main/BLive.Js"
     },
     {
       "id": "jable",
@@ -19,7 +19,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.9",
       "author": "Tinoms89",
-      "url": "https://gitee.com/Tinoms89/Private/raw/main/Widget/Jable.Js"
+      "url": "https://raw.githubusercontent.com/Tinoms89/Private/main/Jable.Js"
     },
     {
       "id": "javday",
@@ -28,7 +28,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.1.0",
       "author": "Tinoms89",
-      "url": "https://gitee.com/Tinoms89/Private/raw/main/Widget/JAVDay.Js"
+      "url": "https://raw.githubusercontent.com/Tinoms89/Private/main/JAVDay.Js"
     },
     {
       "id": "javrate",
@@ -37,7 +37,7 @@
       "requiredVersion": "0.0.1",
       "version": "2.1.0",
       "author": "Tinoms89",
-      "url": "https://gitee.com/Tinoms89/Private/raw/main/Widget/JAVRate.Js"
+      "url": "https://raw.githubusercontent.com/Tinoms89/Private/main/JAVRate.Js"
     },
     {
       "id": "missav",
@@ -46,7 +46,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Tinoms89",
-      "url": "https://gitee.com/Tinoms89/Private/raw/main/Widget/MissAV.Js"
+      "url": "https://raw.githubusercontent.com/Tinoms89/Private/main/MissAV.Js"
     },
     {
       "id": "91pron",
@@ -55,7 +55,7 @@
       "requiredVersion": "0.0.1",
       "version": "0.9.4",
       "author": "Tinoms89",
-      "url": "https://gitee.com/Tinoms89/Private/raw/main/Widget/91Pron.Js"
+      "url": "https://raw.githubusercontent.com/Tinoms89/Private/main/91Pron.Js"
     },
     {
       "id": "pronhub",
@@ -64,7 +64,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.5",
       "author": "Tinoms89",
-      "url": "https://gitee.com/Tinoms89/Private/raw/main/Widget/PronHub.Js"
+      "url": "https://raw.githubusercontent.com/Tinoms89/Private/main/PronHub.Js"
     },
     {
       "id": "xvideo",
@@ -73,7 +73,7 @@
       "requiredVersion": "0.0.1",
       "version": "0.9.4",
       "author": "Tinoms89",
-      "url": "https://gitee.com/Tinoms89/Private/raw/main/Widget/XVideo.Js"
+      "url": "https://raw.githubusercontent.com/Tinoms89/Private/main/XVideo.Js"
     }
   ]
 }
