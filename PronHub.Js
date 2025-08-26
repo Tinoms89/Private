@@ -2,7 +2,7 @@ var WidgetMetadata = {
   id: "pornhub",
   title: "PornHub",
   version: "1.0.5",
-  description: "链接PronHub视频网站",
+  description: "连接PronHub视频网站",
   site: "https://widgets-xd.vercel.app/Widgets/ph.js",
 	author: "Tinoms89",
 	requiredVersion: "0.0.1",
