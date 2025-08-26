@@ -2,7 +2,7 @@ var WidgetMetadata = {
   id: "javday",
   title: "JAVDay",
 	version: "1.1.0",
-  description: "链接JAVDay视频网站",
+  description: "连接JAVDay视频网站",
   site: "https://widgets-xd.vercel.app/Widgets/Javday.js",
 	author: "Tinoms89",
   requiredVersion: "0.0.1",
