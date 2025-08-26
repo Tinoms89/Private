@@ -2,7 +2,7 @@ var WidgetMetadata = {
   id: "javrate",
   title: "JAVRate",
 	version: "2.1.0",
-  description: "链接JAVRate视频网站",
+  description: "连接JAVRate视频网站",
   site: "https://widgets-xd.vercel.app/Widgets/Javrate.js",
   author: "Tinoms89",
   requiredVersion: "0.0.1",
