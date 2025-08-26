@@ -2,7 +2,7 @@ var WidgetMetadata = {
   id: "missav",
   title: "MissAV",
 	version: "1.0.0",
-  description: "链接MissAV视频网站",
+  description: "连接MissAV视频网站",
   site: "https://widgets-xd.vercel.app/Widgets/MissAV.js",
 	author: "Tinoms89",
   requiredVersion: "0.0.1",
