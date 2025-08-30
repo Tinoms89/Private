@@ -1,0 +1,14 @@
+#!name=签到参数
+#!desc=Get Cookies
+#!icon= https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
+
+[Argument]
+阿里云Cookie = switch,true,tag=[开关] 获取阿里云Cookie
+B站Cookie = switch,false,tag=[开关] 获取B站Cookie
+
+[Script]
+http-response ^https?:\/\/developer\.aliyun\.com\/developer\/api\/my\/user\/getUser script-path=https://raw.githubusercontent.com/leiyiyan/resource/main/script/aliyun_web/aliyun_web.js, requires-body=true, timeout=60, tag=阿里云Cookie, enable={阿里云Cookie}
+http-response ^https?:\/\/app\.bilibili\.com\/x\/resource\/fingerprint\? script-path=https://raw.githubusercontent.com/ClydeTime/BiliBili/main/js/BiliBiliDailyBonus.js, tag=B站Cookie, timeout=30, enable={B站Cookie}
+
+[MITM]
+hostname = developer.aliyun.com, app.bilibili.com
