@@ -1,0 +1,17 @@
+#!name= 签到脚本
+#!desc= Run Scripts
+#!icon= https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
+
+[Script]
+cron "0 7 * * *" script-path=https://raw.githubusercontent.com/leiyiyan/resource/main/script/aliyun_web/aliyun_web.js, timeout=600, tag=阿里云社区每日任务
+cron "0 7 * * *" script-path=https://raw.githubusercontent.com/wf021325/qx/master/task/hzh.js, timeout=15, tag=华住会签到
+cron "0 7 * * *" script-path=https://gist.githubusercontent.com/Sliverkiss/9aab5b214f3145e39639a2581e83bb27/raw/yuchenios.js, timeout=60, tag=雨晨ios签到
+cron "0 7 * * *" script-path=https://raw.githubusercontent.com/ClydeTime/BiliBili/main/js/BiliBiliDailyBonus.js, timeout=15, tag=B站每日等级任务
+cron "0 7 * * *" script-path=https://raw.githubusercontent.com/ClydeTime/BiliBili/main/js/BiliBiliDailyBonus.js, timeout=15, tag=B站观看剧集积分
+cron "0 7 * * *" script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/sfexpress/sfexpress.js, timeout=60, tag=顺丰速运签到
+cron "0 7 * * *" script-path=https://gist.githubusercontent.com/Sliverkiss/2e2093bfd5f524d58c8e90fed9beacfd/raw/e399523e428f3c173ec4b95c892725006c3128ff/adjd.js, timeout=300, tag=亚朵酒店签到
+cron "0 7 * * *" script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Ctrip-DailyBonus/Ctrip.js, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/ctrip.png, timeout=300, tag=携程旅行签到
+cron "0 7 * * *" script-path=https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/iQIYI.png, timeout=300, tag=爱奇艺签到
+cron "0 7 * * *" script-path=https://raw.githubusercontent.com/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/tieba.png, timeout=300, tag=百度贴吧签到
+cron "0 7 * * *" script-path=https://raw.githubusercontent.com/wf021325/qx/master/task/ampDache.js, timeout=120, tag=高德地图签到
+cron "0 7 * * *" script-path=https://gist.githubusercontent.com/Sliverkiss/8b4f5487e0f28786c7dec9c7484dcd5e/raw/teaMilk.js, timeout=60, tag=企迈奶茶签到
