@@ -15,7 +15,6 @@ DOMAIN-SUFFIX,doubleclick-cn.net,REJECT
 DOMAIN-SUFFIX,doubleclick.net,REJECT
 DOMAIN,business.msstatic.com,REJECT
 DOMAIN-SUFFIX,v1d.szbdyd.com,REJECT
-URL-REGEX,"^http:\/\/cdn\.wup\.huya\.com\/launch\/queryHttpDns$",REJECT
 DOMAIN-SUFFIX,m1.ad.10010.com,REJECT
 DOMAIN,ad.21cn.com,REJECT
 DOMAIN,ad.k.21cn.com,REJECT
@@ -23,8 +22,6 @@ DOMAIN,admarket.21cn.com,REJECT
 DOMAIN,adshows.21cn.com,REJECT
 IP-CIDR,122.229.8.47/32,REJECT,no-resolve
 IP-CIDR,122.229.29.89/32,REJECT,no-resolve
-URL-REGEX,"^http:\/\/p\.kuaidi100\.com\/mobile\/mobileapi\.do",REJECT-TINYGIF
-URL-REGEX,"^http:\/\/p\.kuaidi100\.com\/advertisement\/",REJECT-TINYGIF
 DOMAIN,mall-dsp2.qinlinkeji.com,REJECT
 DOMAIN,mallapi2.qinlinkeji.com,REJECT
 DOMAIN,open-pixon.ads-pixiv.net,REJECT
