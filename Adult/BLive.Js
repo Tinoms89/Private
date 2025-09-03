@@ -2,7 +2,7 @@ var WidgetMetadata = {
   id: "blive",
   title: "BLive",
 	version: "1.0.0",
-  description: "连接秋名山碧池直播",
+  description: "连接秋名山在线直播",
   site: "https://gist.githubusercontent.com/MrRegret/61a5cbf0637b95a0d800994a51860fb2/raw",
   author: "Tinoms89",
 	requiredVersion: "0.0.1",
