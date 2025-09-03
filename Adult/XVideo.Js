@@ -823,12 +823,13 @@ const widgetAPI = new WidgetAPI(async ()=>{
     }
 });
 WidgetMetadata = {
-    id: 'xvideos',
-    title: 'XVideos',
-    description: 'XVideos',
+    id: 'xvideo',
+    title: 'XVideo',
     version: "0.9.4",
-    requiredVersion: '0.0.1',
-    site: 'https://github.com/baranwang/forward-widget',
+    description: '连接XVideo视频网站',
+    site: "https://github.com/baranwang/forward-widget",
+	author: "Tinoms89",
+    requiredVersion: "0.0.1",
     detailCacheDuration: 1,
     modules: [
         {
