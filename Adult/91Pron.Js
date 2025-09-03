@@ -754,10 +754,11 @@ const widgetAPI = new WidgetAPI();
 WidgetMetadata = {
     id: '91porn',
     title: '91Porn',
-    description: '91Porn',
     version: "0.9.4",
-    requiredVersion: '0.0.1',
-    site: 'https://github.com/baranwang/forward-widget',
+    description: '连接91Porn视频网站',
+    site: "https://github.com/baranwang/forward-widget",
+	author: "Tinoms89",
+    requiredVersion: "0.0.1",
     detailCacheDuration: 1,
     modules: [
         {
