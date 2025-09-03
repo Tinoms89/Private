@@ -756,7 +756,7 @@ WidgetMetadata = {
     title: '91Porn',
     version: "0.9.4",
     description: '连接91Porn视频网站',
-    site: "https://github.com/baranwang/forward-widget",
+    site: "https://widgets-xd.vercel.app/Widgets/91porn.js",
 	author: "Tinoms89",
     requiredVersion: "0.0.1",
     detailCacheDuration: 1,
