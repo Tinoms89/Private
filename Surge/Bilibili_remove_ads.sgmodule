@@ -1,7 +1,7 @@
 #!name=哔哩哔哩去广告
 #!desc=过滤哔哩哔哩广告，增加空降助手
 #!category=KeLeeModule
-#!date=2025-08-28
+#!date=2025-09-04
 
 [Rule]
 DOMAIN,api.biliapi.com,REJECT
