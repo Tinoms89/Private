@@ -10,10 +10,11 @@ DOMAIN-SUFFIX,emby.785858.xyz
 DOMAIN-SUFFIX,nano.jmsuper.com
 #纸片人
 DOMAIN-SUFFIX,embyplus.org
-#草榴社区
-DOMAIN-SUFFIX,t66y.com
+
 #肉视频
 DOMAIN-SUFFIX,rou.video
+#草榴社区
+DOMAIN-SUFFIX,t66y.com
 #Jable
 DOMAIN-SUFFIX,jable.tv
 #Javrate
@@ -26,6 +27,7 @@ DOMAIN-SUFFIX,91porn.com
 DOMAIN-SUFFIX,pornhub.com
 #Xvideos
 DOMAIN-SUFFIX,xvideos.com
+
 #抽奖
 DOMAIN-KEYWORD,lottery
 #V2EX
