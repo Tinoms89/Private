@@ -1,8 +1,13 @@
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/29910409&huya&logo" group-title="游戏直播",听安
+#EXTM3U url-tvg="https://epg.aptv.app"
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL https://raw.githubusercontent.com/Tinoms89/Private/main/Live.m3u
+
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/53917942986&douyin&logo" group-title="游戏",听安
 https://ty-origin.pull.yximgs.com/gifshow/RmNovl2l934_GameAvcFhdL3.flv?ty_Time=1760357283&ty_Secret=9a6f933f29c17cc0ddf19a40ad54e2c6&tsc=origin&oidc=watchmen&sidc=203562&no_script=1&ss=s20&tfc_buyer=0
 
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/856077&bilibili&logo" group-title="游戏直播",树叶
-https://live.iill.top/bilibili/856077
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/53917942986&douyin&logo" group-title="娱乐",张子涵
+http://tx.flv.huya.com/src/1121669804-1121669804-4817535125090729984-2243463064-10057-A-0-1-imgplus.flv?wsSecret=4be7839d555d2cd772788ed394f274ac&wsTime=68ebd5bb&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_commserver&fs=gct&codec=264
 
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/932600568108&douyin&logo" group-title="娱乐直播",开心元元
-https://live.douyin.com/932600568108
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/53917942986&douyin&logo" group-title="游戏",树叶
+https://cn-gddg-ct-01-07.bilivideo.com/live-bvc/980530/live_13221028_9766621.flv?expires=1760290338&pt=web&deadline=1760290338&len=0&oi=2003095628&platform=web&qn=25000&trid=100011535d43237745179c4d03d65336e3d2&uipk=100&uipv=100&nbs=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs&cdn=cn-gotcha01&upsig=28822857f7fed5c74dff88a82a1d15f2&sk=49c77a3c00ecc4726f7e0e5a13f39f63&p2p_type=0&sl=7&free_type=0&mid=0&sid=cn-gddg-ct-01-07&chash=1&bmt=1&sche=ban&score=14&pp=srt&source=one&trace=891&site=7963e28f6a3823ec32c75288d6db452c&zoneid_l=151388161&sid_l=live_13221028_9766621&order=1
