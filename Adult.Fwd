@@ -65,15 +65,6 @@
       "version": "0.10.1",
       "author": "Tinoms89",
       "url": "https://raw.githubusercontent.com/Tinoms89/Private/main/Adult/91Pron.Js"
-    },
-    {
-      "id": "xvideo",
-      "title": "XVideo",
-      "description": "连接XVideo视频网站",
-      "requiredVersion": "0.0.1",
-      "version": "0.9.4",
-      "author": "Tinoms89",
-      "url": "https://raw.githubusercontent.com/Tinoms89/Private/main/Adult/XVideo.Js"
     }
   ]
 }
