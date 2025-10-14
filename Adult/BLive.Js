@@ -9,7 +9,7 @@ var WidgetMetadata = {
   modules: [
     {
       title: "碧池直播",
-      requiresWebView: false,
+      requiresWebView: true,
       functionName: "getVideos",
       params: [
         {
