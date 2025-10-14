@@ -21,6 +21,8 @@ DOMAIN-SUFFIX,rou.video
 DOMAIN-SUFFIX,t66y.com
 #Jable
 DOMAIN-SUFFIX,jable.tv
+#JavDay
+DOMAIN-KEYWORD,javday
 #Javrate
 DOMAIN-SUFFIX,javrate.com
 DOMAIN-SUFFIX,b-cdn.net
